@@ -1,0 +1,6 @@
+charts : true
+#logo : img/D_png.png
+logo-position : top-right
+transition : slide
+background-color : #F5F5F5
+theme-override: css/reveal.css
