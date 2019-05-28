@@ -1,29 +1,19 @@
 ---
-## @color[#000099](New technologies in construction industry)
+## @color[#000099](Kevin Mitnick)
 
----
-### Digitization of industry sector
 @img[clean-img span-45](img/kevin_mitnick.0.1537578188.0.jpg)
 
-<h2> Kevin Mitnick</h2>
-
-+++
-### Blueprints
-@img[clean-img span-90](img/blueprint+image.jpg)
-
-+++
-### Construction Site
-@img[clean-img span-70](img/0204050001-01-Role-of-Civil-Engineer-at-Construction-Site.jpg)
-
-+++
-### Mistake
-@img[clean-img span-50](img/construction_mistakes.jpg)
 
 ---
-@img[clean-img span-90](img/BIM.png)
+### Early life
+<h2>Born in August 1963</h2>
+<h2>Grew up in Los Angeles</h2>
 
 +++
-@img[clean-img span-80](img/bim_1.jpg)
+### First "crime"
+
++++
+### Arrest and conviction
 
 +++
 @img[clean-img span-100](img/BIM2.jpg)
