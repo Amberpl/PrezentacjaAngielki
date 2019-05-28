@@ -24,17 +24,20 @@
 +++
 The Art of Deception: Controlling the Human Element of Security
 (2003)
-@img[clean-img span-45](img/ArtofDeception.jpg)
+
+@img[clean-img span-30](img/ArtofDeception.jpg)
 
 +++
 The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders & Deceivers
 (2005)
-@img[clean-img span-45](img/Artofintrusion.jpg)
+
+@img[clean-img span-30](img/Artofintrusion.jpg)
 
 +++
 Ghost in the Wires: My Adventures as the World's Most Wanted Hacker
 (2011)
-@img[clean-img span-45](img/51kt5CfVEkL._SX330_BO1,204,203,200_.jpg)
+
+@img[clean-img span-30](img/51kt5CfVEkL.jpg)
 
 ---
 ### Thank you
