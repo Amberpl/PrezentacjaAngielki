@@ -1,16 +1,16 @@
 ---
-## @color[#000099](Kevin Mitnick)
+# @color[#eaab00](Kevin Mitnick)
 
 @img[clean-img span-45](img/kevin_mitnick.0.1537578188.0.jpg)
 
 
 ---
-### Early life
+## @color[#eaab00](Early life)
 <h2>Born in August 1963</h2>
 <h2>Grew up in Los Angeles</h2>
 
 +++
-### First "crime"
+## @color[#eaab00](First "crime")
 
 +++
 ### Arrest and conviction
