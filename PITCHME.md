@@ -6,7 +6,7 @@
 
 ---
 ## @color[#eaab00](Early life)
-<h2>Born in August 1963</h2>
+<h2>Born in California, in August 1963</h2>
 <h2>Grew up in Los Angeles</h2>
 
 +++
