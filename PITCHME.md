@@ -13,48 +13,25 @@
 ## @color[#eaab00](First "crime")
 
 +++
-### Arrest and conviction
+## @color[#eaab00](Arrest and conviction)
 
 +++
-@img[clean-img span-100](img/BIM2.jpg)
-
-+++
-@img[clean-img span-90](img/BIM3.jpg)
-
-+++
-@img[clean-img span-80](img/Navisworks.jpg)
-
-+++
-@img[clean-img span-80](img/Dalux_25_of_27.jpg)
+## @color[#eaab00](Consulting)
 
 ---
-### Laser scaning
+## @color[#eaab00](Books)
 
 +++
-@img[clean-img span-80](img/maxresdefault.jpg)
+The Art of Deception: Controlling the Human Element of Security
+(2003)
 
 +++
-@img[clean-img span-80](img/City-point-cloud-model.jpg)
+The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders & Deceivers
+(2005)
 
 +++
-@img[clean-img span-80](img/15_12_20_Statek_ER-1.jpg)
-
----
-### Autonomic vehicle
-
-+++
-@img[clean-img span-80](img/Volvo1.jpg)
-
-+++
-@img[clean-img span-80](img/Volvo2.jpg)<br>
-<a target="_blank" href="https://www.youtube.com/watch?v=x_HQMXK4hCY">Link</a>
-
----
-### Robots
-
-+++
-@img[clean-img span-80](img/FBR.jpg)<br>
-<a target="_blank" href="https://www.youtube.com/watch?time_continue=67&v=264r1Bowy-g">Link</a>
+Ghost in the Wires: My Adventures as the World's Most Wanted Hacker
+(2011)
 
 ---
 ### Thank you
