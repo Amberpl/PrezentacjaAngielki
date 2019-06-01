@@ -13,7 +13,13 @@
 ## @color[#eaab00](First "crime")
 
 +++
-## @color[#eaab00](Arrest and conviction)
+## @color[#eaab00](High school)
+
++++
+## @color[#eaab00](The first serious crime)
+
++++
+## @color[#eaab00](Hacker vs Hacker)
 
 +++
 ## @color[#eaab00](Consulting)
